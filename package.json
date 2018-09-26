@@ -1,0 +1,25 @@
+{
+  "name": "myvuetest",
+  "version": "1.0.0",
+  "description": "Vue Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron-webpack dev"
+  },
+  "author": "Rebeca Gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.0",
+    "electron-webpack": "^2.3.1",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.19.1"
+  },
+  "dependencies": {
+    "css-loader": "^1.0.0",
+    "vue-material": "^1.0.0-beta-10.2"
+  }
+}
